@@ -21,3 +21,15 @@ encoding, so their text was not machine-readable. They were OCR'd here (tesserac
 - The National Forest Plan searchable PDF (~24 MB) was **not committed** — it is not
   part of the reading pack, and its text sidecar covers the drafting need. It can be
   regenerated on request.
+
+## Added 2026-07-29 (large scans pushed via git)
+
+| Original | Identity | Output |
+|---|---|---|
+| `The Motupore.pdf` | **Saulei & Ellis (eds, 1997)** — *The Motupore Conference: ICAD Practitioners' Views from the Field* (2nd ICAD Conference, Motupore Island UPNG, 1–5 Sep 1997; DEC/UNDP PNG/93/G31) | `Motupore.txt` |
+| `Race for the Rainforest.pdf` | **McCallum & Sekhran (1997)** — *Race for the Rainforest* (PNG Biodiversity [Conservation & Resource Mgmt] Programme) | `RaceForTheRainforest_i.txt` |
+| `Race for the Rainforest ii.pdf` | **Ellis (1999)** — *Race for the Rainforest II* | `RaceForTheRainforest_ii.txt` |
+
+Text-only sidecars (these are large grey-lit scans, not reading-pack items). Same
+quotation-verification caveat applies. Identities of the two *Race* volumes to be
+confirmed against their title pages before citing.
