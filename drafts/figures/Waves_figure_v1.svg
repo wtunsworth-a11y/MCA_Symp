@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="620" viewBox="0 0 1080 620" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="1080" height="620" fill="white"/>
+<text x="540.0" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#1F5C2E">The four waves as a process — how the starting point moved</text>
+<text x="319.0" y="66" text-anchor="middle" font-size="11" font-weight="bold" fill="#888" letter-spacing="1">THE STARTING POINT</text>
+<text x="819.0" y="66" text-anchor="middle" font-size="11" font-weight="bold" fill="#888" letter-spacing="1">THE OUTCOME</text>
+<line x1="200" y1="210" x2="200" y2="570" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+<rect x="22" y="88" width="176" height="76" rx="9" ry="9" fill="#9AA0A6"/>
+<text x="110.0" y="122.0" text-anchor="middle" font-size="15" font-weight="bold" fill="white">Wave 1</text>
+<text x="110.0" y="142.0" text-anchor="middle" font-size="12" fill="white" opacity="0.92">Circumstance</text>
+<rect x="214" y="88" width="710" height="76" rx="9" ry="9" fill="#F2F2F2" stroke="#9AA0A6" stroke-width="1.6"/>
+<text x="569.0" y="122.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#7A7F85">Forest kept intact as a by-product of customary life</text>
+<text x="569.0" y="141.0" text-anchor="middle" font-size="10.5" fill="#7A7F85">no deliberate conservation process</text>
+<rect x="22" y="220" width="176" height="76" rx="9" ry="9" fill="#4A5B6B"/>
+<text x="110.0" y="254.0" text-anchor="middle" font-size="15" font-weight="bold" fill="white">Wave 2</text>
+<text x="110.0" y="274.0" text-anchor="middle" font-size="12" fill="white" opacity="0.92">Imposition</text>
+<rect x="214" y="220" width="210" height="76" rx="9" ry="9" fill="#F3EBD2" stroke="#8A6D00" stroke-width="1.6"/>
+<text x="319.0" y="254.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#8A6D00">Priority area</text>
+<text x="319.0" y="273.0" text-anchor="middle" font-size="10.5" fill="#8A6D00">chosen on a biodiversity map</text>
+<line x1="424" y1="258.0" x2="705" y2="258.0" stroke="#666" stroke-width="2.2"/>
+<polygon points="714,258.0 704,253.0 704,263.0" fill="#666"/>
+<rect x="714" y="220" width="210" height="76" rx="9" ry="9" fill="#EEF2F5" stroke="#4A5B6B" stroke-width="1.6"/>
+<text x="819.0" y="254.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#4A5B6B">Protected area</text>
+<text x="819.0" y="273.0" text-anchor="middle" font-size="10.5" fill="#4A5B6B">declared over the community</text>
+<text x="569.0" y="250.0" text-anchor="middle" font-size="10" fill="#b00" font-style="italic">people skipped</text>
+<rect x="22" y="352" width="176" height="76" rx="9" ry="9" fill="#4A5B6B"/>
+<text x="110.0" y="386.0" text-anchor="middle" font-size="15" font-weight="bold" fill="white">Wave 3</text>
+<text x="110.0" y="406.0" text-anchor="middle" font-size="12" fill="white" opacity="0.92">Transaction</text>
+<rect x="214" y="352" width="210" height="76" rx="9" ry="9" fill="#F3EBD2" stroke="#8A6D00" stroke-width="1.6"/>
+<text x="319.0" y="386.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#8A6D00">Priority area</text>
+<text x="319.0" y="405.0" text-anchor="middle" font-size="10.5" fill="#8A6D00">chosen on a biodiversity map</text>
+<line x1="424" y1="390.0" x2="455" y2="390.0" stroke="#666" stroke-width="2.2"/>
+<polygon points="464,390.0 454,385.0 454,395.0" fill="#666"/>
+<rect x="464" y="352" width="210" height="76" rx="9" ry="9" fill="#F3EBD2" stroke="#8A6D00" stroke-width="1.6"/>
+<text x="569.0" y="386.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#8A6D00">Advise / induce people</text>
+<text x="569.0" y="405.0" text-anchor="middle" font-size="10.5" fill="#8A6D00">development in exchange</text>
+<line x1="674" y1="390.0" x2="705" y2="390.0" stroke="#666" stroke-width="2.2"/>
+<polygon points="714,390.0 704,385.0 704,395.0" fill="#666"/>
+<rect x="714" y="352" width="210" height="76" rx="9" ry="9" fill="#EEF2F5" stroke="#1F5C2E" stroke-width="1.6"/>
+<text x="819.0" y="386.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1F5C2E">PA with local benefits</text>
+<text x="819.0" y="405.0" text-anchor="middle" font-size="10.5" fill="#1F5C2E">consent purchased</text>
+<rect x="22" y="484" width="176" height="76" rx="9" ry="9" fill="#1F5C2E"/>
+<text x="110.0" y="518.0" text-anchor="middle" font-size="15" font-weight="bold" fill="white">Wave 4</text>
+<text x="110.0" y="538.0" text-anchor="middle" font-size="12" fill="white" opacity="0.92">Consent</text>
+<rect x="214" y="484" width="210" height="76" rx="9" ry="9" fill="#DCEAD9" stroke="#1F5C2E" stroke-width="1.6"/>
+<text x="319.0" y="518.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1F5C2E">People receptive</text>
+<text x="319.0" y="537.0" text-anchor="middle" font-size="10.5" fill="#1F5C2E">community&#x27;s own interest</text>
+<line x1="424" y1="522.0" x2="455" y2="522.0" stroke="#1F5C2E" stroke-width="2.2"/>
+<polygon points="464,522.0 454,517.0 454,527.0" fill="#1F5C2E"/>
+<rect x="464" y="484" width="210" height="76" rx="9" ry="9" fill="#DCEAD9" stroke="#1F5C2E" stroke-width="1.6"/>
+<text x="569.0" y="518.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1F5C2E">Consensus</text>
+<text x="569.0" y="537.0" text-anchor="middle" font-size="10.5" fill="#1F5C2E">consent built &amp; kept</text>
+<line x1="674" y1="522.0" x2="705" y2="522.0" stroke="#1F5C2E" stroke-width="2.2"/>
+<polygon points="714,522.0 704,517.0 704,527.0" fill="#1F5C2E"/>
+<rect x="714" y="484" width="210" height="76" rx="9" ry="9" fill="#DCEAD9" stroke="#1F5C2E" stroke-width="1.6"/>
+<text x="819.0" y="518.0" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1F5C2E">PA with local management</text>
+<text x="819.0" y="537.0" text-anchor="middle" font-size="10.5" fill="#1F5C2E">owned &amp; governed locally</text>
+<text x="319.0" y="460.0" text-anchor="middle" font-size="10.5" fill="#1F5C2E" font-style="italic">the starting point flips here ↑ from an outsider’s map to the community’s interest</text>
+</svg>
