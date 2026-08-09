@@ -1,14 +1,18 @@
 # OCR outputs — provenance
 
-Three source PDFs in `waves_paper_sources/` were scanned or had a broken font
+Several source PDFs in `waves_paper_sources/` were scanned or had a broken font
 encoding, so their text was not machine-readable. They were OCR'd here (tesseract
 5.3.4, rendered via poppler `pdftoppm`) on 2026-07-29.
 
-| Original | Identity | Why OCR was needed | Outputs |
+Filenames were harmonised on 2026-08-09 so each `.txt` sidecar shares the base
+name of its source PDF (author-year/title form). The mapping below uses the
+current names.
+
+| Source PDF | Identity | Why OCR was needed | Text sidecar |
 |---|---|---|---|
-| `504.pdf` | **PNG Protected Areas Act 2024** | Scanned images, no text layer | `504_ProtectedAreasAct2024.txt` + `504_ProtectedAreasAct2024_OCR.pdf` (searchable) |
-| `201_challenging.pdf` | **Anderson (2005)** — *Challenging ICAD in PNG: the Bismarck Ramu Group* | CID-encoded font — normal extraction returns garbage | `201_Anderson2005_BismarckRamu.txt` + `201_Anderson2005_BismarckRamu_OCR.pdf` (searchable) |
-| `National Forest Plan.pdf` | **PNG National Forest Plan (2012)**, PNGFA | Scanned images, no text layer | `NationalForestPlan2012.txt` (text only) |
+| `PNG_ProtectedAreasAct2024_scan.pdf` | **PNG Protected Areas Act 2024** | Scanned images, no text layer | `PNG_ProtectedAreasAct2024.txt` (+ searchable `PNG_ProtectedAreasAct2024_OCR.pdf`) |
+| `Anderson2005_BismarckRamu_ChallengingICAD.pdf` | **Anderson (2005)** — *Challenging ICAD in PNG: the Bismarck Ramu Group* | CID-encoded font — normal extraction returns garbage | `Anderson2005_BismarckRamu_ChallengingICAD.txt` (+ searchable `..._OCR.pdf`) |
+| `PNG_NationalForestPlan.pdf` | **PNG National Forest Plan (2012)**, PNGFA | Scanned images, no text layer | `PNG_NationalForestPlan.txt` (text only) |
 
 **Notes**
 - The `.txt` sidecars are the working text used for grounding the Waves paper. OCR
@@ -24,11 +28,11 @@ encoding, so their text was not machine-readable. They were OCR'd here (tesserac
 
 ## Added 2026-07-29 (large scans pushed via git)
 
-| Original | Identity | Output |
+| Source PDF | Identity | Text sidecar |
 |---|---|---|
-| `The Motupore.pdf` | **Saulei & Ellis (eds, 1997)** — *The Motupore Conference: ICAD Practitioners' Views from the Field* (2nd ICAD Conference, Motupore Island UPNG, 1–5 Sep 1997; DEC/UNDP PNG/93/G31) | `Motupore.txt` |
-| `Race for the Rainforest.pdf` | **McCallum & Sekhran (1997)** — *Race for the Rainforest* (PNG Biodiversity [Conservation & Resource Mgmt] Programme) | `RaceForTheRainforest_i.txt` |
-| `Race for the Rainforest ii.pdf` | **Ellis (1999)** — *Race for the Rainforest II* | `RaceForTheRainforest_ii.txt` |
+| `SauleiEllis1997_MotuporeICADConference.pdf` | **Saulei & Ellis (eds, 1997)** — *The Motupore Conference: ICAD Practitioners' Views from the Field* (2nd ICAD Conference, Motupore Island UPNG, 1–5 Sep 1997; DEC/UNDP PNG/93/G31) | `SauleiEllis1997_MotuporeICADConference.txt` |
+| `McCallumSekhran1997_RaceForTheRainforest_i_CraterMountain.pdf` | **McCallum & Sekhran (1997)** — *Race for the Rainforest* (PNG Biodiversity [Conservation & Resource Mgmt] Programme) | `McCallumSekhran1997_RaceForTheRainforest_i_CraterMountain.txt` |
+| `Ellis1999_RaceForTheRainforest_ii_CraterMountain.pdf` | **Ellis (1999)** — *Race for the Rainforest II* | `Ellis1999_RaceForTheRainforest_ii_CraterMountain.txt` |
 
 Text-only sidecars (these are large grey-lit scans, not reading-pack items). Same
 quotation-verification caveat applies. Identities of the two *Race* volumes to be
