@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="720" fill="white"/>
+<text x="600.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1F5C2E">Protected areas gazetted in Papua New Guinea, 1962–2024 (cumulative)</text>
+<text x="600.0" y="56" text-anchor="middle" font-size="12" fill="#333333">The areas on the national register by declaration date, set against the waves of conservation</text>
+<line x1="95" y1="430.0" x2="1140" y2="430.0" stroke="#E3E7EA"/>
+<text x="85" y="434.0" text-anchor="end" font-size="11" fill="#666">0</text>
+<line x1="95" y1="347.5" x2="1140" y2="347.5" stroke="#E3E7EA"/>
+<text x="85" y="351.5" text-anchor="end" font-size="11" fill="#666">15</text>
+<line x1="95" y1="265.0" x2="1140" y2="265.0" stroke="#E3E7EA"/>
+<text x="85" y="269.0" text-anchor="end" font-size="11" fill="#666">30</text>
+<line x1="95" y1="182.5" x2="1140" y2="182.5" stroke="#E3E7EA"/>
+<text x="85" y="186.5" text-anchor="end" font-size="11" fill="#666">45</text>
+<line x1="95" y1="100.0" x2="1140" y2="100.0" stroke="#E3E7EA"/>
+<text x="85" y="104.0" text-anchor="end" font-size="11" fill="#666">60</text>
+<text x="53" y="265.0" text-anchor="middle" font-size="11" fill="#666" transform="rotate(-90 53 265.0)">Cumulative number of protected areas</text>
+<line x1="95" y1="430" x2="1140" y2="430" stroke="#666" stroke-width="1.5"/>
+<line x1="95.0" y1="430" x2="95.0" y2="435" stroke="#666"/>
+<text x="95.0" y="449" text-anchor="middle" font-size="11" fill="#666">1960</text>
+<line x1="253.33333333333334" y1="430" x2="253.33333333333334" y2="435" stroke="#666"/>
+<text x="253.33333333333334" y="449" text-anchor="middle" font-size="11" fill="#666">1970</text>
+<line x1="411.6666666666667" y1="430" x2="411.6666666666667" y2="435" stroke="#666"/>
+<text x="411.6666666666667" y="449" text-anchor="middle" font-size="11" fill="#666">1980</text>
+<line x1="570.0" y1="430" x2="570.0" y2="435" stroke="#666"/>
+<text x="570.0" y="449" text-anchor="middle" font-size="11" fill="#666">1990</text>
+<line x1="728.3333333333334" y1="430" x2="728.3333333333334" y2="435" stroke="#666"/>
+<text x="728.3333333333334" y="449" text-anchor="middle" font-size="11" fill="#666">2000</text>
+<line x1="886.6666666666666" y1="430" x2="886.6666666666666" y2="435" stroke="#666"/>
+<text x="886.6666666666666" y="449" text-anchor="middle" font-size="11" fill="#666">2010</text>
+<line x1="1045.0" y1="430" x2="1045.0" y2="435" stroke="#666"/>
+<text x="1045.0" y="449" text-anchor="middle" font-size="11" fill="#666">2020</text>
+<polygon points="95,430 126.7,430.0 126.7,424.5 221.7,424.5 221.7,419.0 237.5,419.0 237.5,408.0 300.8,408.0 300.8,397.0 332.5,397.0 332.5,380.5 348.3,380.5 348.3,375.0 364.2,375.0 364.2,336.5 380.0,336.5 380.0,325.5 395.8,325.5 395.8,320.0 427.5,320.0 427.5,292.5 490.8,292.5 490.8,287.0 506.7,287.0 506.7,281.5 522.5,281.5 522.5,265.0 554.2,265.0 554.2,248.5 570.0,248.5 570.0,237.5 585.8,237.5 585.8,221.0 601.7,221.0 601.7,215.5 617.5,215.5 617.5,204.5 665.0,204.5 665.0,199.0 680.8,199.0 680.8,182.5 775.8,182.5 775.8,177.0 823.3,177.0 823.3,155.0 855.0,155.0 855.0,138.5 870.8,138.5 870.8,133.0 965.8,133.0 965.8,127.5 997.5,127.5 997.5,122.0 1108.3,122.0 1108.3,430" fill="#DCEAD9" opacity="0.55"/>
+<polyline points="126.7,430.0 126.7,424.5 221.7,424.5 221.7,419.0 237.5,419.0 237.5,408.0 300.8,408.0 300.8,397.0 332.5,397.0 332.5,380.5 348.3,380.5 348.3,375.0 364.2,375.0 364.2,336.5 380.0,336.5 380.0,325.5 395.8,325.5 395.8,320.0 427.5,320.0 427.5,292.5 490.8,292.5 490.8,287.0 506.7,287.0 506.7,281.5 522.5,281.5 522.5,265.0 554.2,265.0 554.2,248.5 570.0,248.5 570.0,237.5 585.8,237.5 585.8,221.0 601.7,221.0 601.7,215.5 617.5,215.5 617.5,204.5 665.0,204.5 665.0,199.0 680.8,199.0 680.8,182.5 775.8,182.5 775.8,177.0 823.3,177.0 823.3,155.0 855.0,155.0 855.0,138.5 870.8,138.5 870.8,133.0 965.8,133.0 965.8,127.5 997.5,127.5 997.5,122.0 1108.3,122.0" fill="none" stroke="#1F5C2E" stroke-width="2.6"/>
+<circle cx="126.66666666666667" cy="424.5" r="4.4" fill="#4A5B6B" stroke="white" stroke-width="1.3"/>
+<line x1="126.66666666666667" y1="424.5" x2="138.66666666666669" y2="408.5" stroke="#9AA0A6" stroke-width="1"/>
+<text x="142.66666666666669" y="412.5" text-anchor="start" font-size="10.5" fill="#333333">1962 · McAdams NP — first gazetted PA</text>
+<circle cx="617.5" cy="204.5" r="4.4" fill="#8A6D00" stroke="white" stroke-width="1.3"/>
+<line x1="617.5" y1="204.5" x2="603.5" y2="164.5" stroke="#9AA0A6" stroke-width="1"/>
+<text x="599.5" y="168.5" text-anchor="end" font-size="10.5" fill="#333333">Crater Mountain 1993</text>
+<circle cx="665.0" cy="199.0" r="4.4" fill="#8A6D00" stroke="white" stroke-width="1.3"/>
+<line x1="665.0" y1="199.0" x2="655.0" y2="181.0" stroke="#9AA0A6" stroke-width="1"/>
+<text x="651.0" y="185.0" text-anchor="end" font-size="10.5" fill="#333333">Kamiali 1996</text>
+<circle cx="680.8333333333334" cy="182.5" r="4.4" fill="#8A6D00" stroke="white" stroke-width="1.3"/>
+<line x1="680.8333333333334" y1="182.5" x2="690.8333333333334" y2="158.5" stroke="#9AA0A6" stroke-width="1"/>
+<text x="694.8333333333334" y="162.5" text-anchor="start" font-size="10.5" fill="#333333">Hunstein Ranges 1997</text>
+<circle cx="870.8333333333334" cy="133.0" r="4.4" fill="#1F5C2E" stroke="white" stroke-width="1.3"/>
+<line x1="870.8333333333334" y1="133.0" x2="880.8333333333334" y2="119.0" stroke="#9AA0A6" stroke-width="1"/>
+<text x="884.8333333333334" y="123.0" text-anchor="start" font-size="10.5" fill="#333333">YUS CA 2009 (expanded 2019)</text>
+<circle cx="997.5" cy="122.0" r="5.6" fill="#1F5C2E" stroke="white" stroke-width="1.6"/>
+<line x1="997.5" y1="122.0" x2="997.5" y2="246.5" stroke="#9AA0A6" stroke-width="1"/>
+<text x="991.5" y="258.5" text-anchor="end" font-size="11" font-weight="bold" fill="#1F5C2E">Managalas CA · 2017 · 214,696 ha</text>
+<text x="991.5" y="273.5" text-anchor="end" font-size="10" fill="#666">added here — omitted from the Act’s register in error (acknowledged by CEPA)</text>
+<text x="110.83333333333333" y="135" font-size="11.5" fill="#4A5B6B">Most of the register was gazetted during</text>
+<text x="110.83333333333333" y="152" font-size="11.5" fill="#4A5B6B">Waves 2–3 — imposition and the ICAD era.</text>
+<text x="110.83333333333333" y="169" font-size="11.5" fill="#4A5B6B">The consent era has added only a few,</text>
+<text x="110.83333333333333" y="186" font-size="11.5" fill="#4A5B6B">among them YUS (2009) and Managalas (2017).</text>
+<text x="95" y="465" font-size="11" font-weight="bold" fill="#666">THE WAVES (overlapping, not successive)</text>
+<rect x="95.0" y="474" width="1045.0" height="22" rx="5" fill="#F2F2F2" stroke="#9AA0A6" stroke-width="1.5" opacity="0.45"/>
+<text x="104.0" y="489" font-size="11" font-weight="bold" fill="#7A7F85">Wave 1 — Circumstance (background, pre-1970 and continuing)</text>
+<rect x="253.33333333333334" y="502" width="411.66666666666663" height="22" rx="5" fill="#EEF2F5" stroke="#4A5B6B" stroke-width="1.5"/>
+<text x="262.33333333333337" y="517" font-size="11" font-weight="bold" fill="#4A5B6B">Wave 2 — Imposition</text>
+<rect x="506.6666666666667" y="530" width="379.99999999999994" height="22" rx="5" fill="#F3EBD2" stroke="#8A6D00" stroke-width="1.5"/>
+<text x="515.6666666666667" y="545" font-size="11" font-weight="bold" fill="#8A6D00">Wave 3 — Transaction (ICAD)</text>
+<rect x="870.8333333333334" y="558" width="269.16666666666663" height="22" rx="5" fill="#DCEAD9" stroke="#1F5C2E" stroke-width="1.5"/>
+<text x="879.8333333333334" y="573" font-size="11" font-weight="bold" fill="#1F5C2E">Wave 4 — Consent</text>
+<rect x="1140.0" y="586" width="14.250000000001592" height="22" rx="5" fill="#EAF3E9" stroke="#1F5C2E" stroke-width="1.5" stroke-dasharray="7,5"/>
+<text x="1132.0" y="601" text-anchor="end" font-size="11" font-weight="bold" fill="#1F5C2E">Wave 5 — Recognition (proposed)</text>
+<line x1="95" y1="610" x2="1140" y2="610" stroke="#E3E7EA"/>
+<text x="95" y="624" font-size="9.5" fill="#666">Source: Protected Areas Act 2024, Schedule 2 (Existing Protected Areas), 57 areas. Two corrections from project and CEPA knowledge are applied: the Managalas Conservation</text>
+<text x="95" y="639" font-size="9.5" fill="#666">Area (214,696 ha, 2017), omitted from the register in error, is added; and YUS is shown at its original 2009 gazettal (the Act’s 2019 date reflects a later expansion). Of the</text>
+<text x="95" y="654" font-size="9.5" fill="#666">resulting 58 areas, 56 carry a date and are plotted; two register entries are undated. More than half are Wildlife Management Areas, and all together they amount to only</text>
+<text x="95" y="669" font-size="9.5" fill="#666">about 4% of national land (Melick et al. 2012), against the 30% of Target 3.</text>
+</svg>
