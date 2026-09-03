@@ -53,6 +53,10 @@
 <text x="110.83333333333333" y="152" font-size="11.5" fill="#4A5B6B">Waves 2–3 — imposition and the ICAD era.</text>
 <text x="110.83333333333333" y="169" font-size="11.5" fill="#4A5B6B">The consent era has added only a few,</text>
 <text x="110.83333333333333" y="186" font-size="11.5" fill="#4A5B6B">among them YUS (2009) and Managalas (2017).</text>
+<text x="522.5" y="303.5" font-size="10.5" font-style="italic" fill="#333333">Gazetted areas only. Proposals that were consented or came</text>
+<text x="522.5" y="318.5" font-size="10.5" font-style="italic" fill="#333333">close to gazettal but were never declared — e.g. the Torricelli</text>
+<text x="522.5" y="333.5" font-size="10.5" font-style="italic" fill="#333333">Conservation Area (~13,000 landowners, ungazetted since 2008) —</text>
+<text x="522.5" y="348.5" font-size="10.5" font-style="italic" fill="#333333">leave no trace, so the real effort under each wave was greater.</text>
 <text x="95" y="465" font-size="11" font-weight="bold" fill="#666">THE WAVES (overlapping, not successive)</text>
 <rect x="95.0" y="474" width="1045.0" height="22" rx="5" fill="#F2F2F2" stroke="#9AA0A6" stroke-width="1.5" opacity="0.45"/>
 <text x="104.0" y="489" font-size="11" font-weight="bold" fill="#7A7F85">Wave 1 — Circumstance (background, pre-1970 and continuing)</text>
@@ -64,9 +68,11 @@
 <text x="879.8333333333334" y="573" font-size="11" font-weight="bold" fill="#1F5C2E">Wave 4 — Consent</text>
 <rect x="1140.0" y="586" width="14.250000000001592" height="22" rx="5" fill="#EAF3E9" stroke="#1F5C2E" stroke-width="1.5" stroke-dasharray="7,5"/>
 <text x="1132.0" y="601" text-anchor="end" font-size="11" font-weight="bold" fill="#1F5C2E">Wave 5 — Recognition (proposed)</text>
-<line x1="95" y1="610" x2="1140" y2="610" stroke="#E3E7EA"/>
-<text x="95" y="624" font-size="9.5" fill="#666">Source: Protected Areas Act 2024, Schedule 2 (Existing Protected Areas), 57 areas. Two corrections from project and CEPA knowledge are applied: the Managalas Conservation</text>
-<text x="95" y="639" font-size="9.5" fill="#666">Area (214,696 ha, 2017), omitted from the register in error, is added; and YUS is shown at its original 2009 gazettal (the Act’s 2019 date reflects a later expansion). Of the</text>
-<text x="95" y="654" font-size="9.5" fill="#666">resulting 58 areas, 56 carry a date and are plotted; two register entries are undated. More than half are Wildlife Management Areas, and all together they amount to only</text>
-<text x="95" y="669" font-size="9.5" fill="#666">about 4% of national land (Melick et al. 2012), against the 30% of Target 3.</text>
+<line x1="95" y1="616" x2="1140" y2="616" stroke="#E3E7EA"/>
+<text x="95" y="630" font-size="9.5" fill="#666">Source: Protected Areas Act 2024, Schedule 2 (Existing Protected Areas), 57 areas. Two corrections from project and CEPA knowledge are applied: the Managalas Conservation</text>
+<text x="95" y="645" font-size="9.5" fill="#666">Area (214,696 ha, 2017), omitted from the register in error, is added; and YUS is shown at its original 2009 gazettal (the Act’s 2019 date reflects a later expansion). Of the</text>
+<text x="95" y="660" font-size="9.5" fill="#666">resulting 58 areas, 56 carry a date and are plotted; two register entries are undated. More than half are Wildlife Management Areas, and all together they amount to only</text>
+<text x="95" y="675" font-size="9.5" fill="#666">about 4% of national land (Melick et al. 2012), against the 30% of Target 3. This is the record of areas actually gazetted; it holds no record of the many protected areas that</text>
+<text x="95" y="690" font-size="9.5" fill="#666">were proposed, consented, or brought close to gazettal but never declared. The scale of conservation effort under each wave — and the areas nearly secured — was therefore</text>
+<text x="95" y="705" font-size="9.5" fill="#666">greater than this curve can show.</text>
 </svg>
