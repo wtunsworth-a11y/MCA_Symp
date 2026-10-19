@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="860" viewBox="0 0 1520 860" font-family="Arial, Helvetica, sans-serif">
+<rect width="1520" height="860" fill="#FBF8F2"/>
+<text x="760.0" y="40" text-anchor="middle" font-size="24" fill="#1F5C2E" font-weight="bold" font-style="normal">Conservation is one peg — not the whole hole</text>
+<text x="760.0" y="66" text-anchor="middle" font-size="14" fill="#555" font-weight="normal" font-style="normal">Filling the hole of community wellbeing: from one overloaded peg to a set of pegs, each with an owner</text>
+<text x="300.0" y="120" text-anchor="middle" font-size="16" fill="#2B2B2B" font-weight="bold" font-style="normal">The old way: one peg for everything</text>
+<rect x="40" y="470" width="80" height="120" fill="#CBB389" stroke="#9C8458" stroke-width="2"/>
+<rect x="480" y="470" width="80" height="120" fill="#CBB389" stroke="#9C8458" stroke-width="2"/>
+<path d="M 120,470 L 120,640 Q 120,656 136,656 L 464,656 Q 480,656 480,640 L 480,470" fill="#EFE7D6" stroke="#9C8458" stroke-width="2"/>
+<text x="300" y="686" text-anchor="middle" font-size="13" fill="#9C8458" font-weight="bold" font-style="normal">THE HOLE:  community wellbeing</text>
+<text x="300" y="704" text-anchor="middle" font-size="10.5" fill="#555" font-weight="normal" font-style="normal">a good life on and from the land — livelihood, health, schooling, rights, culture, a healthy environment</text>
+<g transform="rotate(-7 300 445.0)">
+<rect x="225.0" y="250" width="150" height="370" fill="#8A8F6B" stroke="#00000035" stroke-width="2"/>
+<text x="300" y="292" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">CONSERVATION</text>
+<text x="300" y="312" text-anchor="middle" font-size="11" fill="#ffffff" font-weight="normal" font-style="normal">made to carry</text>
+<text x="300" y="332" text-anchor="middle" font-size="11" fill="#ffffff" font-weight="normal" font-style="normal">everything:</text>
+<text x="300" y="352" text-anchor="middle" font-size="11" fill="#ffffff" font-weight="normal" font-style="normal">roads · jobs · services</text>
+<text x="300" y="372" text-anchor="middle" font-size="11" fill="#ffffff" font-weight="normal" font-style="normal">rights · income …</text>
+</g>
+<text x="168" y="610" text-anchor="middle" font-size="12" fill="#A23B2E" font-weight="bold" font-style="italic">gaps</text>
+<text x="452" y="610" text-anchor="middle" font-size="12" fill="#A23B2E" font-weight="bold" font-style="italic">gaps</text>
+<text x="300.0" y="762" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">Load every aspiration onto conservation and it fits nothing.</text>
+<text x="300.0" y="782" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">It fails at what was never its job — and takes the blame when the rest doesn’t arrive.</text>
+<line x1="585" y1="95" x2="585" y2="800" stroke="#DDD6C6" stroke-width="2"/>
+<text x="1045.0" y="120" text-anchor="middle" font-size="16" fill="#2B2B2B" font-weight="bold" font-style="normal">The unbundled way: a peg each, an owner each</text>
+<rect x="610" y="470" width="50" height="120" fill="#CBB389" stroke="#9C8458" stroke-width="2"/>
+<rect x="1440" y="470" width="40" height="120" fill="#CBB389" stroke="#9C8458" stroke-width="2"/>
+<path d="M 660,470 L 660,640 Q 660,656 676,656 L 1424,656 Q 1440,656 1440,640 L 1440,470" fill="#EFE7D6" stroke="#9C8458" stroke-width="2"/>
+<text x="1050" y="686" text-anchor="middle" font-size="13" fill="#9C8458" font-weight="bold" font-style="normal">THE HOLE:  community wellbeing</text>
+<text x="1050" y="704" text-anchor="middle" font-size="10.5" fill="#555" font-weight="normal" font-style="normal">filled by the whole alliance — conservation is one contributor, not the vehicle for all of it</text>
+<path d="M 682.0,346 Q 682.0,330 698.0,330 L 770.0,330 Q 786.0,330 786.0,346 L 786.0,634 Q 786.0,650 770.0,650 L 698.0,650 Q 682.0,650 682.0,634 Z" fill="#3D8B4E" stroke="#00000030" stroke-width="2"/>
+<rect x="688.0" y="336" width="92" height="9" rx="4" fill="#ffffff40"/>
+<text x="734.0" y="370" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">Conservation</text>
+<text x="734.0" y="429" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">landowners &amp;</text>
+<text x="734.0" y="443" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">practitioners</text>
+<path d="M 804.0,346 Q 804.0,330 820.0,330 L 892.0,330 Q 908.0,330 908.0,346 L 908.0,634 Q 908.0,650 892.0,650 L 820.0,650 Q 804.0,650 804.0,634 Z" fill="#2F6D8C" stroke="#00000030" stroke-width="2"/>
+<rect x="810.0" y="336" width="92" height="9" rx="4" fill="#ffffff40"/>
+<text x="856.0" y="361" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">Infrastructure</text>
+<text x="856.0" y="379" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">&amp; services</text>
+<text x="856.0" y="436" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">government</text>
+<path d="M 926.0,346 Q 926.0,330 942.0,330 L 1014.0,330 Q 1030.0,330 1030.0,346 L 1030.0,634 Q 1030.0,650 1014.0,650 L 942.0,650 Q 926.0,650 926.0,634 Z" fill="#C8842B" stroke="#00000030" stroke-width="2"/>
+<rect x="932.0" y="336" width="92" height="9" rx="4" fill="#ffffff40"/>
+<text x="978.0" y="370" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">Livelihoods</text>
+<text x="978.0" y="429" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">community,</text>
+<text x="978.0" y="443" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">business, partners</text>
+<path d="M 1048.0,346 Q 1048.0,330 1064.0,330 L 1136.0,330 Q 1152.0,330 1152.0,346 L 1152.0,634 Q 1152.0,650 1136.0,650 L 1064.0,650 Q 1048.0,650 1048.0,634 Z" fill="#6B5B95" stroke="#00000030" stroke-width="2"/>
+<rect x="1054.0" y="336" width="92" height="9" rx="4" fill="#ffffff40"/>
+<text x="1100.0" y="361" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">Rights &amp;</text>
+<text x="1100.0" y="379" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">tenure</text>
+<text x="1100.0" y="429" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">govt &amp;</text>
+<text x="1100.0" y="443" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">community</text>
+<path d="M 1170.0,346 Q 1170.0,330 1186.0,330 L 1258.0,330 Q 1274.0,330 1274.0,346 L 1274.0,634 Q 1274.0,650 1258.0,650 L 1186.0,650 Q 1170.0,650 1170.0,634 Z" fill="#2A9D8F" stroke="#00000030" stroke-width="2"/>
+<rect x="1176.0" y="336" width="92" height="9" rx="4" fill="#ffffff40"/>
+<text x="1222.0" y="370" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">Knowledge</text>
+<text x="1222.0" y="429" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">the conservation</text>
+<text x="1222.0" y="443" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">effort</text>
+<line x1="734.0" y1="305" x2="734.0" y2="328" stroke="#A23B2E" stroke-width="1.5"/>
+<text x="734.0" y="296" text-anchor="middle" font-size="11.5" fill="#A23B2E" font-weight="bold" font-style="italic">one peg — not the whole hole</text>
+<rect x="1349" y="148" width="20" height="40" rx="2" fill="#6E5A47" stroke="#00000025"/>
+<rect x="1373" y="130" width="24" height="58" rx="2" fill="#6E5A47" stroke="#00000025"/>
+<rect x="1401" y="154" width="18" height="34" rx="2" fill="#6E5A47" stroke="#00000025"/>
+<text x="1385" y="116" text-anchor="middle" font-size="11.5" fill="#555" font-weight="bold" font-style="italic">beyond the land</text>
+<path d="M 1333.0,346 Q 1333.0,330 1349.0,330 L 1421.0,330 Q 1437.0,330 1437.0,346 L 1437.0,634 Q 1437.0,650 1421.0,650 L 1349.0,650 Q 1333.0,650 1333.0,634 Z" fill="#6E5A47" stroke="#00000030" stroke-width="2"/>
+<rect x="1339.0" y="336" width="92" height="9" rx="4" fill="#ffffff40"/>
+<text x="1385" y="352" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">Economy, jobs</text>
+<text x="1385" y="370" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">&amp; urban</text>
+<text x="1385" y="388" text-anchor="middle" font-size="14" fill="#ffffff" font-weight="bold" font-style="normal">development</text>
+<text x="1385" y="429" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">national govt</text>
+<text x="1385" y="443" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">&amp; business</text>
+<line x1="1385" y1="190" x2="1385" y2="328" stroke="#6E5A47" stroke-width="1.5" stroke-dasharray="4,4"/>
+<line x1="1303.5" y1="330" x2="1303.5" y2="640" stroke="#A23B2E" stroke-width="1.4" stroke-dasharray="5,4"/>
+<text x="1303.5" y="314" text-anchor="middle" font-size="11" fill="#A23B2E" font-weight="bold" font-style="italic">an agreed gap</text>
+<text x="1303.5" y="300" text-anchor="middle" font-size="9.5" fill="#A23B2E" font-weight="normal" font-style="italic">(the honest compromise)</text>
+<text x="1045.0" y="762" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">Each peg has an owner accountable for it, transparently. Conservation is one of them.</text>
+<text x="1045.0" y="782" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">Fill the hole well — with the forest kept as part of how — and the global goods follow as the dividend.</text>
+</svg>
