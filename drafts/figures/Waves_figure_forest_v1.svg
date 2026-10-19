@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="720" fill="white"/>
+<text x="600.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1F5C2E">How much forest does Papua New Guinea have? No agreed answer</text>
+<text x="600.0" y="56" text-anchor="middle" font-size="12" fill="#333333">Total forest area (million hectares) by source — the estimates disagree, on the level and on the trend</text>
+<line x1="95" y1="430.0" x2="1150" y2="430.0" stroke="#E3E7EA"/>
+<text x="85" y="434.0" text-anchor="end" font-size="11" fill="#666">0</text>
+<line x1="95" y1="347.5" x2="1150" y2="347.5" stroke="#E3E7EA"/>
+<text x="85" y="351.5" text-anchor="end" font-size="11" fill="#666">12</text>
+<line x1="95" y1="265.0" x2="1150" y2="265.0" stroke="#E3E7EA"/>
+<text x="85" y="269.0" text-anchor="end" font-size="11" fill="#666">24</text>
+<line x1="95" y1="182.5" x2="1150" y2="182.5" stroke="#E3E7EA"/>
+<text x="85" y="186.5" text-anchor="end" font-size="11" fill="#666">36</text>
+<line x1="95" y1="100.0" x2="1150" y2="100.0" stroke="#E3E7EA"/>
+<text x="85" y="104.0" text-anchor="end" font-size="11" fill="#666">48</text>
+<text x="51" y="265.0" text-anchor="middle" font-size="11" fill="#666" transform="rotate(-90 51 265.0)">Forest area (million ha)</text>
+<line x1="95" y1="113.75" x2="1150" y2="113.75" stroke="#9AA0A6" stroke-width="1.3" stroke-dasharray="6,4"/>
+<text x="1146" y="107.75" text-anchor="end" font-size="10.5" fill="#666">PNG land area ≈ 46 million ha</text>
+<line x1="95" y1="430" x2="1150" y2="430" stroke="#666" stroke-width="1.5"/>
+<line x1="130.16666666666666" y1="430" x2="130.16666666666666" y2="435" stroke="#666"/>
+<text x="130.16666666666666" y="449" text-anchor="middle" font-size="11" fill="#666">1970</text>
+<line x1="306.0" y1="430" x2="306.0" y2="435" stroke="#666"/>
+<text x="306.0" y="449" text-anchor="middle" font-size="11" fill="#666">1980</text>
+<line x1="481.8333333333333" y1="430" x2="481.8333333333333" y2="435" stroke="#666"/>
+<text x="481.8333333333333" y="449" text-anchor="middle" font-size="11" fill="#666">1990</text>
+<line x1="657.6666666666666" y1="430" x2="657.6666666666666" y2="435" stroke="#666"/>
+<text x="657.6666666666666" y="449" text-anchor="middle" font-size="11" fill="#666">2000</text>
+<line x1="833.5" y1="430" x2="833.5" y2="435" stroke="#666"/>
+<text x="833.5" y="449" text-anchor="middle" font-size="11" fill="#666">2010</text>
+<line x1="1009.3333333333334" y1="430" x2="1009.3333333333334" y2="435" stroke="#666"/>
+<text x="1009.3333333333334" y="449" text-anchor="middle" font-size="11" fill="#666">2020</text>
+<polyline points="165.3,168.8 692.8,203.1" fill="none" stroke="#1F5C2E" stroke-width="2.8"/>
+<circle cx="165.33333333333331" cy="168.75" r="5.4" fill="#1F5C2E" stroke="white" stroke-width="1.4"/>
+<text x="165.33333333333331" y="156.75" text-anchor="middle" font-size="12" font-weight="bold" fill="#1F5C2E">38 Mha</text>
+<circle cx="692.8333333333334" cy="203.125" r="5.4" fill="#1F5C2E" stroke="white" stroke-width="1.4"/>
+<text x="692.8333333333334" y="191.125" text-anchor="middle" font-size="12" font-weight="bold" fill="#1F5C2E">33 Mha</text>
+<text x="393.9166666666667" y="172.875" text-anchor="middle" font-size="10.5" fill="#3D8B4E">Shearman et al. 2009 (satellite): a measured decline</text>
+<rect x="915.4166666666666" y="175.8125" width="12" height="12" fill="#2F6D8C" stroke="white" stroke-width="1.4" transform="rotate(45 921.4166666666666 181.8125)"/>
+<text x="921.4166666666666" y="168.8125" text-anchor="middle" font-size="12" font-weight="bold" fill="#2F6D8C">~36 Mha</text>
+<text x="935.4166666666666" y="185.8125" font-size="10.5" fill="#2F6D8C">PNG Forest Authority 2019: ~78% of land, little change</text>
+<text x="798.3333333333334" y="141.25" text-anchor="middle" font-size="12" font-style="italic" font-weight="bold" fill="#A23B2E">Two credible sources, two different pictures</text>
+<text x="95" y="465" font-size="11" font-weight="bold" fill="#666">THE WAVES (overlapping, not successive)</text>
+<rect x="95.0" y="474" width="1055.0" height="22" rx="5" fill="#F2F2F2" stroke="#9AA0A6" stroke-width="1.5" opacity="0.45"/>
+<text x="104.0" y="489" font-size="11" font-weight="bold" fill="#7A7F85">Wave 1 — Circumstance (background, pre-1970 and continuing)</text>
+<rect x="130.16666666666666" y="502" width="457.16666666666663" height="22" rx="5" fill="#EEF2F5" stroke="#4A5B6B" stroke-width="1.5"/>
+<text x="139.16666666666666" y="517" font-size="11" font-weight="bold" fill="#4A5B6B">Wave 2 — Imposition</text>
+<rect x="411.5" y="530" width="422.0" height="22" rx="5" fill="#F3EBD2" stroke="#8A6D00" stroke-width="1.5"/>
+<text x="420.5" y="545" font-size="11" font-weight="bold" fill="#8A6D00">Wave 3 — Transaction (ICAD)</text>
+<rect x="815.9166666666666" y="558" width="298.91666666666686" height="22" rx="5" fill="#DCEAD9" stroke="#1F5C2E" stroke-width="1.5"/>
+<text x="824.9166666666666" y="573" font-size="11" font-weight="bold" fill="#1F5C2E">Wave 4 — Consent</text>
+<rect x="1114.8333333333335" y="586" width="35.166666666666515" height="22" rx="5" fill="#EAF3E9" stroke="#1F5C2E" stroke-width="1.5" stroke-dasharray="7,5"/>
+<text x="1106.8333333333335" y="601" text-anchor="end" font-size="11" font-weight="bold" fill="#1F5C2E">Wave 5 — Recognition (proposed)</text>
+<line x1="95" y1="610" x2="1150" y2="610" stroke="#E3E7EA"/>
+<text x="95" y="624" font-size="9.5" fill="#666">The estimates use different methods and definitions and are not a single series. Shearman et al. (2009, Biotropica) mapped a fall from 38 to 33 million ha, 1972–2002 (a net 15%</text>
+<text x="95" y="639" font-size="9.5" fill="#666">cleared, 8.8% degraded); the PNG Forest Authority (2019) and Filer et al. (2009) dispute the magnitude, reporting ~36 million ha (~78% of land) and a more stable trend; Global</text>
+<text x="95" y="654" font-size="9.5" fill="#666">Forest Watch records ~1.3 million ha of tree-cover loss over 2001–2017. What all sources agree on: the great majority of Papua New Guinea remains under forest, and loss is</text>
+<text x="95" y="669" font-size="9.5" fill="#666">fastest where the forest is accessible. The disagreement is itself the point — on the most measurable fact of all, there is no consensus.</text>
+</svg>
