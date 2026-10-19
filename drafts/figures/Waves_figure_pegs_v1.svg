@@ -18,6 +18,7 @@
 </g>
 <text x="168" y="610" text-anchor="middle" font-size="12" fill="#A23B2E" font-weight="bold" font-style="italic">gaps</text>
 <text x="452" y="610" text-anchor="middle" font-size="12" fill="#A23B2E" font-weight="bold" font-style="italic">gaps</text>
+<text x="300.0" y="232" text-anchor="middle" font-size="12" fill="#A23B2E" font-weight="bold" font-style="italic">over-promised  →  under-delivered  →  blamed for all of it</text>
 <text x="300.0" y="762" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">Load every aspiration onto conservation and it fits nothing.</text>
 <text x="300.0" y="782" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">It fails at what was never its job — and takes the blame when the rest doesn’t arrive.</text>
 <line x1="585" y1="95" x2="585" y2="800" stroke="#DDD6C6" stroke-width="2"/>
@@ -68,8 +69,14 @@
 <text x="1385" y="443" text-anchor="middle" font-size="10.5" fill="#ffffffdd" font-weight="normal" font-style="italic">&amp; business</text>
 <line x1="1385" y1="190" x2="1385" y2="328" stroke="#6E5A47" stroke-width="1.5" stroke-dasharray="4,4"/>
 <line x1="1303.5" y1="330" x2="1303.5" y2="640" stroke="#A23B2E" stroke-width="1.4" stroke-dasharray="5,4"/>
-<text x="1303.5" y="314" text-anchor="middle" font-size="11" fill="#A23B2E" font-weight="bold" font-style="italic">an agreed gap</text>
-<text x="1303.5" y="300" text-anchor="middle" font-size="9.5" fill="#A23B2E" font-weight="normal" font-style="italic">(the honest compromise)</text>
+<text x="1303.5" y="314" text-anchor="middle" font-size="11" fill="#A23B2E" font-weight="bold" font-style="italic">the honest compromise</text>
+<text x="1303.5" y="300" text-anchor="middle" font-size="9.5" fill="#A23B2E" font-weight="normal" font-style="italic">(nobody is ever 100% happy)</text>
+<path d="M 734,266 L 734,256 L 1222.0,256 L 1222.0,266" fill="none" stroke="#2F6D8C" stroke-width="1.6"/>
+<line x1="795" y1="256" x2="795" y2="265" stroke="#2F6D8C" stroke-width="1.4" stroke-dasharray="3,3"/>
+<line x1="917" y1="256" x2="917" y2="265" stroke="#2F6D8C" stroke-width="1.4" stroke-dasharray="3,3"/>
+<line x1="1039" y1="256" x2="1039" y2="265" stroke="#2F6D8C" stroke-width="1.4" stroke-dasharray="3,3"/>
+<line x1="1161" y1="256" x2="1161" y2="265" stroke="#2F6D8C" stroke-width="1.4" stroke-dasharray="3,3"/>
+<text x="978.0" y="248" text-anchor="middle" font-size="11.5" fill="#2F6D8C" font-weight="bold" font-style="italic">Requires coordination — the gaps between actors are where it breaks down</text>
 <text x="1045.0" y="762" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">Each peg has an owner accountable for it, transparently. Conservation is one of them.</text>
 <text x="1045.0" y="782" text-anchor="middle" font-size="12.5" fill="#2B2B2B" font-weight="normal" font-style="italic">Fill the hole well — with the forest kept as part of how — and the global goods follow as the dividend.</text>
 </svg>
